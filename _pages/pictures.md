@@ -11,7 +11,7 @@ Jump to: [CVIR](#cvir), [Journal Club](#journal-club), [Online Meetings](#online
 
 ## CVIR
 
-<^-^>:#### Timelapse of our lab assembling:
+<^_^>: #### Timelapse of our lab assembling:
 <iframe width="560" height="315" src="https://www.bilibili.com/video/BV1Jv411p7Uz?spm_id_from=333.337.search-card.all.click" frameborder="0" allowfullscreen></iframe>
 
 #### Gallery
