@@ -59,7 +59,7 @@ First advertisement.
 </figure>
 
 
-## Jourlab club
+## Journal club
 From the [journal club](http://www.qudev.ethz.ch/).
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
