@@ -63,5 +63,5 @@ From the [journal club](http://www.cvirlab.com/).
 ## online meeting
 From the [online meeting](http://www.cvirlab.com/).
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/jc22.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/jc2.jpg" width="60%">
 </figure>
