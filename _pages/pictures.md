@@ -14,9 +14,10 @@ Jump to: [CVIR](#cvir), [Journal Club](#journal-club), [Online Meetings](#online
 <!---
  # Timelapse of our lab assembling:
 --->
-
+<!---
 <iframe width="690" height="470" src="https://www.bilibili.com/video/BV1Jv411p7Uz?spm_id_from=333.337.search-card.all.click" scrolling="no" bordder="0" frameborder="0" allowfullscreen="true"></iframe>
-
+--->
+<iframe width="720" height="510" src="//player.bilibili.com/player.html?aid=248567251&bvid=BV1Jv411p7Uz&cid=352550304&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 #### Gallery
 (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
