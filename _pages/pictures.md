@@ -14,6 +14,7 @@ Jump to: [CVIR](#cvir), [Journal Club](#journal-club), [Online Meetings](#online
 <!---
  # Timelapse of our lab assembling:
 --->
+#### Visit RMUA2021 in ICRA2021 Xi'An.
 <!---
 <iframe width="690" height="470" src="https://www.bilibili.com/video/BV1Jv411p7Uz?spm_id_from=333.337.search-card.all.click" scrolling="no" bordder="0" frameborder="0" allowfullscreen="true"></iframe>
 --->
