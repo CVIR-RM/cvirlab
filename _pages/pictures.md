@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Journal Club](#journal-club), [Online Meetings](#online-meeting)
+Jump to: [Leiden](#leiden), [Journal Club](#journal-club), [Online Meetings](#online-meeting)
 
 
 ## Leiden
@@ -52,12 +52,6 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Journal Club](#journal-club), [Onlin
 {% endif %}
 
 <p> &nbsp; </p>
-
-First advertisement.
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
-</figure>
-
 
 ## Journal club
 From the [journal club](http://www.qudev.ethz.ch/).
