@@ -54,14 +54,14 @@ Jump to: [Leiden](#leiden), [Journal Club](#journal-club), [Online Meetings](#on
 <p> &nbsp; </p>
 
 ## Journal club
-From the [journal club](http://www.qudev.ethz.ch/).
+From the [journal club](http://www.cvirlab.com/).
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/jc1.jpg" width="60%">
 </figure>
 
 
 ## online meeting
-From the [online meeting](http://www.qudev.ethz.ch/).
+From the [online meeting](http://www.cvirlab.com/).
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/jc22.jpg" width="60%">
 </figure>
