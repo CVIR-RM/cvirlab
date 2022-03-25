@@ -56,12 +56,12 @@ Jump to: [CVIR](#cvir), [Journal Club](#journal-club), [Online Meetings](#online
 ## Journal club
 From the [journal club](http://www.cvirlab.com/).
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/jc1.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/jc2.jpg" width="40%">
 </figure>
 
 
 ## online meeting
 From the [online meeting](http://www.cvirlab.com/).
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/jc2.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/olme1.png" width="40%">
 </figure>
