@@ -1,6 +1,6 @@
 - name: Xueming Xiao
   photo: xmxiao.png
-  info: Assistant professor
+  info: Associate professor
   email: alexcapshow@cust.edu.cn
   number_educ: 1
   education1: PhD, Harbin Institute of Technology
@@ -12,9 +12,3 @@
   number_educ: 1
   education1: PhD, Changchun University of Science and Technology(CUST)
   
-- name: Wenbo Jing
-  photo: wenbojing.png
-  info: Associate Professor
-  email: wenbojing@cust.edu.cn
-  number_educ: 1
-  education1: PhD, Changchun University of Science and Technology(CUST)
