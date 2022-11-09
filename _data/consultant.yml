@@ -1,20 +1,20 @@
 - name: Wenbo Jing
   photo: wenbojing.png
-  info: Associate Professor
+  info: Professor
   email: wenbojing@cust.edu.cn
   number_educ: 1
   education1: PhD, Changchun University of Science and Technology(CUST)
 
 - name: Ru Zheng
   photo: ruzheng.png
-  info: Assistant professor
+  info: Associate professor
   email: zhangl@cust.edu.cn
   number_educ: 1
   education1: PhD, Changchun University of Science and Technology(CUST)
 
 - name: Yue Pan
   photo: yuepan.png
-  info: Assistant professor
+  info: Associate professor
   email: zhangl@cust.edu.cn
   number_educ: 1
   education1: PhD, Changchun University of Science and Technology(CUST)
