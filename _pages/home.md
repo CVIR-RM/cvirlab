@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-We are the team supervised by the lab of Computer Vision and Intelligent Robotics (**CVIR**) and the lab of Advanced imaging and machine learning. On behalf of the [Changchun Uinveristy of Science and Technology(CUST)](http://sie.cust.edu.cn/), our aim is to explore and understand the computer vision issues associated with robots and take part in the robotic competitions mainly the Robomaster, and **to be the best engineer!**
+We are the team supervised by the lab of Computer Vision and Intelligent Robotics (**CVIR**). On behalf of the [Changchun Uinveristy of Science and Technology(CUST)](http://sie.cust.edu.cn/), our aim is to explore and understand the computer vision issues associated with robots and take part in the robotic competitions mainly the Robomaster, and **to be the best engineer!**
 
 
 
